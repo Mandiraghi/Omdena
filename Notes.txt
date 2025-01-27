@@ -1,0 +1,3 @@
+My First Class and week
+touch new_file.txt
+
